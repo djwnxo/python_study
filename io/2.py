@@ -157,3 +157,7 @@ if num %3 == 0 and num % 4 == 0:
     result = "3의 배수이면서 4의 배수이다."
 
 print("%d은(는) %s"%(num, result))
+
+#3.3.3 영어 단어 퀴즈 만들기
+ans1 = "땡! 틀림"
+if ans1 == "lion":
