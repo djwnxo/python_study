@@ -1,1 +1,1 @@
-print("hello")
+print("hello")git commit -m ":memo:update"
